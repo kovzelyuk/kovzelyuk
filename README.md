@@ -1,5 +1,3 @@
-### Denis Kovzelyuk
-
 Senior software engineer, backend and platform. I build TypeScript/NestJS
 microservices for payments, booking, reservations, and fraud detection, with
 six years of Java/Kotlin and Spring Boot before that.
