@@ -7,7 +7,7 @@ six years of Java/Kotlin and Spring Boot before that.
 **Currently**
 
 - Distributed API work in aviation — payments, fraud remediation, flight search
-- [Voidborne Tactics](https://YOUR-SITE-URL) — a turn-based sci-fi tactics game
+- [Voidborne Tactics](https://perevodgames.github.io/) — a turn-based sci-fi tactics game
   I'm building solo in Godot 4 under Perevod Games, shipping to Google Play
 
 **How I work**
@@ -23,4 +23,4 @@ against services I didn't write, with verification built into the loop.
 Most of what I build is private: client work under contract, and a game that
 isn't released yet. The contribution graph below is the honest picture.
 
-[LinkedIn](https://YOUR-LINKEDIN) · [Voidborne Tactics](https://YOUR-SITE-URL)
+[LinkedIn](https://www.linkedin.com/in/denis-k-99841a79) · [Voidborne Tactics](https://perevodgames.github.io/)
